@@ -2,7 +2,7 @@ const BotProxy = require('./bot-proxy');
 const EngagementManager = require('./engagementManager');
 const { managerModes } = require('./constants');
 
-const token = '';
+const token = '711099708:AAEQ1IC6V8LzSUWEnwfDV66T6PlWS-y9mAI';
 const groupChatId = 'test';
 const groupChatId = '';
 
